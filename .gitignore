@@ -1,0 +1,22 @@
+# Entorno virtual
+venv/
+stem/
+__pycache__/
+
+# Archivos de Jupyter
+.ipynb_checkpoints/
+
+# Datos sensibles o pesados
+data/raw/
+data/processed/
+*.csv
+*.xlsx
+*.sav
+*.json
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración
+.env
